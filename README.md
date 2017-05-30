@@ -1,6 +1,6 @@
 # Number-Guess-CS
 
-A number-guessing console game, demonstrating some basic C# functionality like:
+A number-guessing console game, demonstrating some C# basics like:
 
 - Control flow with `while` loops
 - Working with user input
